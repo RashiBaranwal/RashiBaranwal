@@ -3,8 +3,8 @@
 ![A passionate web developer from India](https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif)
 
 
-Skills:<br> 
-⭐C/C++<br>⭐HTML<br>⭐CSS<br>⭐JAVASCRIPT <br>⭐PYTHON<br>⭐JAVA<br>⭐jQuery<br>⭐Bootstrap<br> ⭐Node.js<br>⭐Git
+Skills:
+⭐C/C++⭐HTML⭐CSS⭐JAVASCRIPT⭐PYTHON⭐JAVA⭐jQuery⭐Bootstrap ⭐Node.js⭐Git
 
 - 🔭 I’m currently working on Creating own Chat GPT 
 - 🌱 I’m currently learning Node.js 
