@@ -1,7 +1,7 @@
 ### Hi there 👋, Rashi Baranwal
 #### A passionate web developer from India
-![A passionate web developer from India](https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif)
 
+<img align="right" alt="Coding" width="270" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 Skills:
 ⭐C/C++⭐HTML⭐CSS⭐JAVASCRIPT⭐PYTHON⭐JAVA⭐jQuery⭐Bootstrap ⭐Node.js⭐Git
@@ -15,11 +15,8 @@ Skills:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RashiBaranwal)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashiBaranwal)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashibaranwal&show_icons=true&locale=en&layout=compact" alt="rashibaranwal" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RashiBaranwal&show_icons=true&count_private=true)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashibaranwal&show_icons=true&locale=en" alt="rashibaranwal" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/RashiBaranwal)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RashiBaranwal)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashibaranwal&" alt="rashibaranwal" /></p>
