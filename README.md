@@ -1,7 +1,8 @@
 ### Hi there 👋, Rashi Baranwal
+<img align="right" alt="Coding" width="270" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+
 #### A passionate web developer from India
 
-<img align="right" alt="Coding" width="270" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 Skills:
 ⭐C/C++⭐HTML⭐CSS⭐JAVASCRIPT⭐PYTHON⭐JAVA⭐jQuery⭐Bootstrap ⭐Node.js⭐Git
