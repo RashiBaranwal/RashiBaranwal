@@ -1,12 +1,12 @@
 ### Hi there 👋, Rashi Baranwal
 <img align="right" alt="Coding" width="270" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-#### A passionate web developer from India
+#### A passionate MERN developer from India
 
 
 Skills:
-⭐C/C++⭐HTML⭐CSS⭐JAVASCRIPT⭐PYTHON⭐JAVA⭐jQuery⭐Bootstrap ⭐Node.js⭐Git
-
+⭐C/C++⭐HTML⭐CSS⭐JAVASCRIPT⭐PYTHON⭐JAVA⭐jQuery⭐Bootstrap ⭐Node.js⭐Git⭐Express.js⭐Mongo DB ⭐
+Mongoose⭐Tailwind CSS ⭐Appwrite
 - 🔭 I’m currently working on Creating own Chat GPT 
 - 🌱 I’m currently learning Node.js 
 - 📫 How to reach me: rashi1704baranwal@gmail.com 
