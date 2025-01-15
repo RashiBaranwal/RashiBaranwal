@@ -19,3 +19,8 @@ Mongoose⭐Tailwind CSS ⭐Appwrite
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashibaranwal&show_icons=true&locale=en" alt="rashibaranwal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashibaranwal&" alt="rashibaranwal" /></p>
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
+![](https://komarev.com/ghpvc/?username=RashiBaranwal)
