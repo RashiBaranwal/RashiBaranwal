@@ -23,4 +23,4 @@ Mongoose⭐Tailwind CSS ⭐Appwrite
 [Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 
-![](https://komarev.com/ghpvc/?username=RashiBaranwal)
+![](https://komarev.com/ghpvc/?username=RashiBaranwal&color=dc143c)
